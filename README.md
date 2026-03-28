@@ -83,7 +83,7 @@ The interactive dashboard provides insights into:
 ---
 
 ## 🖼️ Dashboard Preview
-
+![Dashboard](Images/ola_dashboard.png)
 ---
 
 ## 📌 Key Insights
