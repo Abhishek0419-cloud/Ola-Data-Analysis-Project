@@ -118,8 +118,6 @@ SQL/analysis_queries.sql
 
 ---
 
-4.Dashboard Preview
-![Dashboard](Images/ola_dashboard.png)
 
 ## 📈 Future Improvements
 
